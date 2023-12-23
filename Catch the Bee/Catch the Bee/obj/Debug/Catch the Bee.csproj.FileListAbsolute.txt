@@ -1,0 +1,10 @@
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\bin\Debug\Catch the Bee.exe.config
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\bin\Debug\Catch the Bee.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\bin\Debug\Catch the Bee.pdb
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch the Bee.csproj.AssemblyReference.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch_the_Bee.Form1.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch_the_Bee.Properties.Resources.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch the Bee.csproj.GenerateResource.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch the Bee.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch the Bee.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\Catch the Bee\Catch the Bee\obj\Debug\Catch the Bee.pdb
